@@ -176,3 +176,31 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
 - Charts powered by [Recharts](https://recharts.org/)
 - Styled with [Tailwind CSS](https://tailwindcss.com/)
+
+## 📞 Contact
+
+### Get in Touch
+
+**Derrick Karanja** - Software Developer
+
+- 📧 **Email**: [derricks01.kk@outlook.com](mailto:derricks01.kk@outlook.com)
+- 💼 **LinkedIn**: [linkedin.com/in/derks01](https://linkedin.com/in/derks01)
+- 🐱 **GitHub**: [github.com/derksKCodes](https://github.com/derksKCodes)
+- 🌐 **My Portfolio**: [My Portfolio](https://my-portfolio-project-dk-jr.vercel.app/)
+
+### Project Links
+
+- 🌐 **Live Demo**: [my-portfolio-project-dk-jr.vercel.app/](https://my-portfolio-project-dk-jr.vercel.app/)
+- 📁 **Repository**: [github.com/derksKCodes/derrickportfolio.git](https://github.com/derksKCodes/derrickportfolio.git)
+
+---
+
+<div align="center">
+
+**⭐ Star this repository if you found it helpful!**
+
+Made with ❤️ by [Derrick](https://github.com/derksKCodes)
+
+</div>
+
+---
