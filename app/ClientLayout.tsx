@@ -27,6 +27,10 @@ export default function ClientLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>     
+      <link rel="icon" href="/favicon.ico" />
+      <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+      </head>
       <body className={`font-sans antialiased ${inter.variable} ${poppins.variable}`}>
         {/* Update font configuration for proper Tailwind integration */}
         <style jsx global>{`

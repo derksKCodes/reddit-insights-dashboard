@@ -4,6 +4,7 @@ import ClientLayout from "./client-layout"
 import "./globals.css"
 
 export const metadata: Metadata = {
+  
   title: "Reddit Insights Dashboard",
   description: "Modern Reddit data visualization and analytics dashboard",
  
